@@ -1,4 +1,4 @@
-package com.example.StudentCourseEnrollment;
+package com.example.StudentCourseEnrollment.Model;
 
 import jakarta.persistence.*;
 

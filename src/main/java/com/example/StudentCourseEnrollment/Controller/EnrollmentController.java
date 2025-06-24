@@ -1,11 +1,11 @@
-package com.example.StudentCourseEnrollment.controller;
+package com.example.StudentCourseEnrollment.Controller;
 
-import com.example.StudentCourseEnrollment.model.Student;
-import com.example.StudentCourseEnrollment.model.Course;
-import com.example.StudentCourseEnrollment.model.Enrollment;
-import com.example.StudentCourseEnrollment.repository.StudentRepository;
+import com.example.StudentCourseEnrollment.Model.Student;
+import com.example.StudentCourseEnrollment.Model.Course;
+import com.example.StudentCourseEnrollment.Model.Enrollment;
 import com.example.StudentCourseEnrollment.repository.CourseRepository;
 import com.example.StudentCourseEnrollment.repository.EnrollmentRepository;
+import com.example.StudentCourseEnrollment.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
